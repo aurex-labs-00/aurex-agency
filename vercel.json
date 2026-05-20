@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/api/bookings", "dest": "/api/bookings.js" }
+  ]
+}
